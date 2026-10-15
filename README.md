@@ -57,8 +57,6 @@ git clone https://github.com/muskan8006/ecommerce-data-engineering.git
 cd ecommerce-data-engineering
 ```
 
-Replace `muskan8006` with your GitHub username.
-
 ### 2. Create a virtual environment
 
 **Windows PowerShell:**
