@@ -1,0 +1,17 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.idea/
+.vscode/
+
+# Raw datasets and generated outputs
+data/
+output/
+*.parquet
+*.csv
+
+# Temporary files
+*.log
